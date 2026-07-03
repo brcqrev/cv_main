@@ -1,0 +1,25 @@
+[33m3f82a1b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m final changes
+[33m394013e[m package.json edit
+[33md997a36[m test
+[33m7048948[m added images and modified main.js to include the images in the project
+[33m034cb2a[m Changed formatting of CV
+[33m0cf2b0b[m changed some phrasing
+[33me2a4f25[m change refresh rate modification to be multiplicative instead of additive
+[33m23758a9[m added fish mode
+[33m577867e[m added fish patterns
+[33m717bf55[m updated conway description
+[33mc674c5e[m icon fix
+[33m95a6d6d[m added icon and updated index.html
+[33m73d3e07[m changed button emoji
+[33m04cad83[m fixed a typo
+[33mab0fcf1[m deploying to git pages
+[33m5c8958d[m main js typo fix
+[33m4d57e49[m Update vite.config.js
+[33m73c35b0[m Add files via upload
+[33mbc23870[m Update README.md
+[33mcf929b9[m Delete CNAME
+[33m2940b4c[m Update CNAME
+[33md2f43c8[m Update CNAME
+[33m311558c[m Create CNAME
+[33mc210d76[m Update README.md
+[33m68b03e4[m Initial commit
