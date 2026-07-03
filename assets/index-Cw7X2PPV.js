@@ -35,7 +35,7 @@
     </section>
 
     <section id="info">
-      <p>Click on each item for an extended description.</p> <br>
+      <p>Click on each item for an extended description. Co-Curricular Activities certificate is found <a href="./img/Co-Curricular Activity Records.pdf" target="_blank" rel="noopener noreferrer">here.</a></p> <br>
       <h3>Education</h3>
       <ul class = "drop-list">
         <li>
@@ -49,6 +49,7 @@
             <li> Mathematics: B </li>
             <li> Physics: B </li>
             <li> Project Work: Pass </li>
+            <li> <a href="./img/A level results.jpg" target="_blank" rel="noopener noreferrer">Link to certificate</a></li>
           </ul>
         </li>
         <li>
@@ -58,6 +59,7 @@
         </div>
           <ul class = "drop-cont">
             <li>8.5 band</li>
+            <li><a href="./img/IELTS results.JPG" target="_blank" rel="noopener noreferrer">Link to certificate</a></li>
           </ul>
         </li>
         <li>
@@ -67,6 +69,7 @@
           </div>
           <ul class = "drop-cont">
             <li>1490</li>
+            <li><a href="./img/SAT results.pdf" target="_blank" rel="noopener noreferrer">Link to certificate</a></li>
           </ul>
         </li>
       </ul>
@@ -81,6 +84,7 @@
           </div>
           <ul class = "drop-cont">
             <li>Awarded Bronze in a national biology competition for secondary school students (Sec 2--4, ages 14--16).</li>
+            <li><a href="./img/SJBO Bronze.jpg" target="_blank" rel="noopener noreferrer">Link to certificate</a></li>
           </ul>
         </li>
         
@@ -91,6 +95,7 @@
           </div>
           <ul class = "drop-cont">
             <li>A robotics compettition held in collaboration with Singapore University of Technology and Design (SUTD) for junior college students (ages 17-18) </li>
+            <li><a href="./img/RoboroarZ Innovation Award.jpg" target="_blank" rel="noopener noreferrer">Link to certificate</a></li>
           </ul>
         </li>
 
@@ -101,6 +106,7 @@
           </div>
           <ul class = "drop-cont">
             <li>Represented School at a hacking compettition held by Singapore Management University (SMU)</li>
+            <li><a href="./img/Co-Curricular Activity Records.pdf" target="_blank" rel="noopener noreferrer">Link to certificate</a></li>
           </ul>
         </li>
 
