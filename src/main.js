@@ -2,6 +2,8 @@ import './style.css';
 import { Game } from './modules/game.js';
 import { CELL_SIZE } from './modules/constants.js';
 
+// fat test
+
 document.querySelector('#app').innerHTML = `
 <div id = "cont">
   <div id = "cont-left">
